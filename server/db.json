@@ -1,0 +1,29 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "firstName": "Bobi",
+      "lastName": "Bobs"
+    },
+    {
+      "id": 2,
+      "firstName": "Mark",
+      "lastName": "Marks"
+    },
+    {
+      "id": 3,
+      "firstName": "Mik",
+      "lastName": "Miks"
+    },
+    {
+      "firstName": "Bil",
+      "lastName": "Smit",
+      "id": 4
+    },
+    {
+      "firstName": "фывыф",
+      "lastName": "фывфыв",
+      "id": 5
+    }
+  ]
+}
