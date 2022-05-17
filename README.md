@@ -10,6 +10,6 @@
 
 Команда `ng serve`, хост `http://localhost:4200/`.
 
-## Lint
+## Lint (@angular-eslint/schematics)
 
 Команда `ng lint`.
